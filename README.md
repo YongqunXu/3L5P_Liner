@@ -1,4 +1,7 @@
 # Three-Loop-Five-Point Feynman Integral: Pentagon-box-box
+
+[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2411.18697)
+
 This is the analytic result of a Three-Loop-Five-Point Feynman integral: Pentagon-box-box, the auxilary files of [An Analytic Computation of Three-Loop Five-Point Feynman Integrals[2411.18697]](https://arxiv.org/abs/2411.18697)
 
 This is the Pentagon-box-box:
